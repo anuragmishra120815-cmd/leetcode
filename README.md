@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/anuragmishra120815-cmd/leetcode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/anuragmishra120815-cmd/leetcode/tree/master/0069-sqrtx) |
 | [0326-power-of-three](https://github.com/anuragmishra120815-cmd/leetcode/tree/master/0326-power-of-three) |
 ## Recursion
